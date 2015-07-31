@@ -1,0 +1,5 @@
+- combination of white tones #F3F3F3
+
+- text color #1D1D1F
+
+- grey light #9B9BA3 #87c6bd 
