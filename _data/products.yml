@@ -1,40 +1,60 @@
-- title: "product1"
-  url: "/product1/"
-  price: "$19.991"
+
+- name: EmailProfiteers
+  url: /pages/EmailProfiteers
+  title: "EmailProfiteers"
   short_description: "1Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product2"
-  url: "/product2/"
-  price: "$19.992"
+  image: EmailProfiteers.jpg
+  price: "$19.991"
+- name: Entrepreneurs
+  url: /pages/Entrepreneurs
+  title: "Entrepreneurs"
   short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product3"
-  url: "/product3/"
-  price: "$19.993"
+  image: Entrepreneurs.jpg
+  price: "$19.992"
+- name: ForexTrading
+  url: /pages/ForexTrading
+  title: "ForexTrading"
   short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product4"
-  url: "/product4/"
-  price: "$19.994"
+  image: ForexTrading.jpg
+  price: "$19.993"
+- name: ForexTrading1
+  url: /pages/ForexTrading1
+  title: "ForexTrading1"
   short_description: "4Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product5"
-  url: "/product5/"
-  price: "$19.995"
+  image: ForexTrading1.jpg
+  price: "$19.994"
+- name: ForexTradingRevolution
+  url: /pages/ForexTradingRevolution
+  title: "ForexTradingRevolution"
   short_description: "5Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product6"
-  url: "/product6/"
-  price: "$19.996"
+  image: ForexTradingRevolution.jpg
+  price: "$19.995"
+- name: InternetMarketing
+  url: /pages/InternetMarketing
+  title: "InternetMarketing"
   short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product7"
-  url: "/product7/"
-  price: "$19.997"
+  image: InternetMarketing.jpg
+  price: "$19.996"
+- name: OnlinePoker
+  url: /pages/OnlinePoker
+  title: "OnlinePoker"
   short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product8"
-  url: "/product8/"
-  price: "$19.998"
+  image: OnlinePoker.jpg
+  price: "$19.997"
+- name: ProsperityPursuit
+  url: /pages/ProsperityPursuit
+  title: "ProsperityPursuit"
   short_description: "8Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product9"
-  url: "/product9/"
-  price: "$19.999"
+  image: ProsperityPursuit.jpg
+  price: "$19.998"
+- name: SocialMediaPower
+  url: /pages/SocialMediaPower
+  title: "SocialMediaPower"
   short_description: "9Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-- title: "product10"
-  url: "/product10/"
+  image: SocialMediaPower.jpg
+  price: "$19.999"
+- name: TrademarkingCover
+  url: /pages/TrademarkingCover
   price: "$19.9910"
   short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: TrademarkingCover.jpg
