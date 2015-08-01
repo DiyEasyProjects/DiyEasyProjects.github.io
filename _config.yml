@@ -21,7 +21,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://diyeasyprojects.github.io"
+# url: "https://diyeasyprojects.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,10 +34,10 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://diyeasyprojects.github.io/images/"
+# urlimg: "https://diyeasyprojects.github.io/images/"
 
-# url: "http://localhost:4000"
-# urlimg: "http://localhost:4000/images/"
+url: "http://localhost:4000"
+urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

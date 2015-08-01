@@ -15,7 +15,7 @@ permalink: "/products/"
       <div class="item-wrapper">
         <div class="img-wrapper">
           <a class="button expand add-to-cart">Add to Cart</a>
-          <a href="{{ product.url }}"><img src="http://i.imgur.com/Mcw06Yt.png"></a>
+          <a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><img src="{{site.urlimg}}/thumb/{{ product.image }}"></a>
         </div>  
         <a href="#"><h3>{{ product.title }}</h3></a>
         <h5>{{product.price}}</h5>
