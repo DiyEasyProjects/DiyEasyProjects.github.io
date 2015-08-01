@@ -20,7 +20,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 
 # This URL is the main adresse. Don't include a slash at the end.
-#
+
 url: "https://diyeasyprojects.github.io"
 baseurl: ""
 

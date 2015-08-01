@@ -17,7 +17,7 @@ permalink: "/products/"
           <a class="button expand add-to-cart">Add to Cart</a>
           <a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><img src="{{site.urlimg}}/thumb/{{ product.image }}"></a>
         </div>  
-        <a href="#"><h3>{{ product.title }}</h3></a>
+        <a href="https://gum.co/zvKqj"><h3>{{ product.title }}</h3></a>
         <h5>{{product.price}}</h5>
         <p>{{product.short_description}}</p>
       </div>  
