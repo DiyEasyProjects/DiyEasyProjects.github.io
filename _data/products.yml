@@ -4,57 +4,67 @@
   title: "EmailProfiteers"
   short_description: "1Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: EmailProfiteers.jpg
+  gumroad: https://gum.co/zvKqj
   price: "$19.991"
 - name: Entrepreneurs
   url: /pages/Entrepreneurs
   title: "Entrepreneurs"
   short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: Entrepreneurs.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.992"
 - name: ForexTrading
   url: /pages/ForexTrading
   title: "ForexTrading"
   short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ForexTrading.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.993"
 - name: ForexTrading1
   url: /pages/ForexTrading1
   title: "ForexTrading1"
   short_description: "4Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ForexTrading1.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.994"
 - name: ForexTradingRevolution
   url: /pages/ForexTradingRevolution
   title: "ForexTradingRevolution"
   short_description: "5Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ForexTradingRevolution.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.995"
 - name: InternetMarketing
   url: /pages/InternetMarketing
   title: "InternetMarketing"
   short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: InternetMarketing.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.996"
 - name: OnlinePoker
   url: /pages/OnlinePoker
   title: "OnlinePoker"
   short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: OnlinePoker.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.997"
 - name: ProsperityPursuit
   url: /pages/ProsperityPursuit
   title: "ProsperityPursuit"
   short_description: "8Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ProsperityPursuit.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.998"
 - name: SocialMediaPower
   url: /pages/SocialMediaPower
   title: "SocialMediaPower"
   short_description: "9Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: SocialMediaPower.jpg
+  gumroad: https://gum.co/XXXX
   price: "$19.999"
 - name: TrademarkingCover
   url: /pages/TrademarkingCover
+  gumroad: https://gum.co/XXXX
   price: "$19.9910"
   short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: TrademarkingCover.jpg
