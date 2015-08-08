@@ -12,15 +12,15 @@ title: "Feeling Responsive"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "DIY Easy Projects"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "»DIY Easy Projects is a blog with books about DIY."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
-
+#
 url: "https://diyeasyprojects.github.io"
 baseurl: ""
 
@@ -89,7 +89,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "BuyThis"
   -
     scope:
       path: ""        
@@ -98,7 +98,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "BuyThis"
 
 
 
@@ -206,7 +206,7 @@ sass:
 #
 # used in _includes/footer_scripts.html
 
-# google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-64789768-1
 
 
 

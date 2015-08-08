@@ -20,7 +20,7 @@ permalink: "/products/"
 
         <a href="#"><h3>{{ product.title }}</h3></a>
         <h5>{{product.price}}</h5>
-        <p>{{product.short_description}}</p>
+        <!-- <p>{{product.short_description}}</p> -->
       </div>  
     </div>
 
