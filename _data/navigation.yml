@@ -1,7 +1,11 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
+- title: Bookshelf
+  url: "/products/"
+  side: left
+  
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
@@ -61,8 +65,8 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Bookshelf
-  url: "/products/"
+# - title: Bookshelf
+#   url: "/products/"
   # side: left
   # dropdown:
   # # - title: Blog
