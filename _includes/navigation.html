@@ -44,7 +44,7 @@
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
                 <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title }}</a>
 
-                  <ul class="dropdown">
+                  <ul class="dropdown boxShadowNoTop">
                     {% for dropdown_link in link.dropdown %}
 
                       {% if dropdown_link.url contains 'http' %}
@@ -98,7 +98,7 @@
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
                 <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title }}</a>
 
-                  <ul class="dropdown">
+                  <ul class="dropdown boxShadowNoTop">
                     {% for dropdown_link in link.dropdown %}
 
                       {% if dropdown_link.url contains 'http' %}

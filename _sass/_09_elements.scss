@@ -10,6 +10,8 @@
 - Accordion
 - Lazy Load XT
 
+- Radius
+
 */
 
 
@@ -143,4 +145,11 @@ img.lazy {
     -o-transition: opacity 0.7s;
     transition: opacity 0.7s;
     opacity: 1;
+}
+
+/* My classes
+------------------------------------------------------------------- */
+
+.boxShadowNoTop {
+  //box-shadow: 0 5px 12px $box-shadow;
 }

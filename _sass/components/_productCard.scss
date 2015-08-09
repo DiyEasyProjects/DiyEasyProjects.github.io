@@ -2,7 +2,7 @@ $primary-color: #008cba;
 .item-wrapper {
     padding: 20px;
     border: none;
-    border-radius: 2px;
+    @include radius;
     margin-top: 40px;
     background-color: #fff;
     box-shadow: 0px 1px 12px #ccc;

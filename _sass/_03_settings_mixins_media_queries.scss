@@ -27,7 +27,7 @@ $base-font-size: 100% !default;
 // @mixins
 //
 // We use this to control border radius.
-// $radius - Default: $global-radius || 4px
+// $radius - Default: $global-radius || 4px(2px)
 @mixin radius($radius:$global-radius) {
   @if $radius {
     border-radius: $radius;
