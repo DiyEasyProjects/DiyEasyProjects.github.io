@@ -1,4 +1,3 @@
-
 - name: EmailProfiteers
   url: /pages/EmailProfiteers
   title: "Email Profiteers"
@@ -6,6 +5,7 @@
   image: EmailProfiteers.jpg
   gumroad: https://gum.co/zvKqj
   price: "$19.991"
+
 - name: Entrepreneurs
   url: /pages/Entrepreneurs
   title: "Entrepreneurs"
@@ -13,6 +13,7 @@
   image: Entrepreneurs.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.992"
+
 - name: ForexTrading
   url: /pages/ForexTrading
   title: "Forex Trading"
@@ -20,6 +21,7 @@
   image: ForexTrading.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.993"
+
 - name: ForexTrading1
   url: /pages/ForexTrading1
   title: "Forex Trading 1"
@@ -27,6 +29,7 @@
   image: ForexTrading1.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.994"
+
 - name: ForexTradingRevolution
   url: /pages/ForexTradingRevolution
   title: "Forex Trading Revolution"
@@ -34,6 +37,7 @@
   image: ForexTradingRevolution.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.995"
+
 - name: InternetMarketing
   url: /pages/InternetMarketing
   title: "Internet Marketing"
@@ -41,6 +45,7 @@
   image: InternetMarketing.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.996"
+
 - name: OnlinePoker
   url: /pages/OnlinePoker
   title: "Online Poker"
@@ -48,6 +53,7 @@
   image: OnlinePoker.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.997"
+
 - name: ProsperityPursuit
   url: /pages/ProsperityPursuit
   title: "Prosperity Pursuit"
@@ -55,6 +61,7 @@
   image: ProsperityPursuit.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.998"
+
 - name: SocialMediaPower
   url: /pages/SocialMediaPower
   title: "Social Media Power"
@@ -62,6 +69,7 @@
   image: SocialMediaPower.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.999"
+
 - name: TrademarkingCover
   url: /pages/TrademarkingCover
   title: "Trademarking Cover"
@@ -69,6 +77,7 @@
   gumroad: https://gum.co/XXXX
   price: "$19.9910"
   image: TrademarkingCover.jpg
+
 - name: DatingDigest
   url: /pages/DatingDigest
   title: "Dating Digest"
@@ -76,6 +85,7 @@
   gumroad: https://gum.co/XXXX
   price: "$19.9911"
   image: DatingDigest.png
+
 - name: BodyFatInferno
   url: /pages/BodyFatInferno
   title: "Body Fat Inferno"
