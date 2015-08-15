@@ -4,24 +4,17 @@ subheadline: Entrepreneurs
 title:  "Business Ideas Entrepreneur"
 teaser: "Brilliant Business Ideas for Entrepreneurs
 
-Starting a Business takes a lot of thinking and planning. Finding an excellent business idea can be a daunting task - what with the different options of business ideas you can choose from. In this article, we will explore the process of finding the right business idea to start on as well as offer some of the hottest and most popular business ideas. A successful business does take a great idea to begin with. However, this is not necessarily the case all the time. An original business idea can either go up or down. Since it is unproven and untested yet, such an idea doesn’t usually come with an established market. "
+Starting a Business takes a lot of thinking and planning. Finding an excellent business idea can be a daunting task - what with the different options of business ideas you can choose from. In this article, we will explore the process of finding the right business idea to start on as well as offer some of the hottest and most popular business ideas..."
 breadcrumb: true
 categories:
     - entrepreneurs
 tags:
     - entrepreneurs
-<!-- image:
-    title: "unsplash_1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com -->
-author: mo
+author: Dev
 ---
-
-Business Ideas Entrepreneur
-
-
-
 Starting a Business
+
+A successful business does take a great idea to begin with. However, this is not necessarily the case all the time. An original business idea can either go up or down. Since it is unproven and untested yet, such an idea doesn’t usually come with an established market. 
 
 The first step to starting your own business is to find a brilliant business idea that will make money. To find that excellent business idea, you should think creatively, even out of the box, so to speak. You can start by asking yourself what interests you. You must be enthusiastic and passionate about your business idea. That’s why as much as possible, your business endeavor must really be in your field of interest. You can find business ideas by from your friends and family members. You can also do some research in the internet to find the hottest business ideas today. Another great way to think up a new business idea is to observe the latest trends.
 

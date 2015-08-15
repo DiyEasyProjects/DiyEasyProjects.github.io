@@ -4,21 +4,17 @@ subheadline: Entrepreneurs
 title:  "Business Entrepreneur Ideas Trends"
 teaser: "Ideas for Entrepreneurs: Realities of Home Based Internet Business Trends 
 
-Before your eye gloss with the thought of establishing your own home based business via Internet, let us first have a reality check and check the trends.
-
-Entrepreneurs venturing into the World Wide Web typically have dreams of having time all for themselves, sitting on their couches with laptops on and money pouring continuously with every click. That's possible, all right but this normally is not a case."
+Before your eye gloss with the thought of establishing your own home based business via Internet, let us first have a reality check..."
 breadcrumb: true
 categories:
     - entrepreneurs
 tags:
     - entrepreneurs
-<!-- image:
-    title: "unsplash_1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com -->
-author: mo
+author: Dev
 ---
+...and check the trends.
 
+Entrepreneurs venturing into the World Wide Web typically have dreams of having time all for themselves, sitting on their couches with laptops on and money pouring continuously with every click. That's possible, all right but this normally is not a case.
 
 Though we are talking of home based business in here, it is still not true that we can get things easily. Or that we can earn hundreds of thousands even while we sleep. Don't be lured with business opportunities in the web that offer too-good-to-be-true fantasies. If they're dealing with a motto like "be a millionaire in 1 month" then it is time for you to have doubts. Success don't come easy, you know that. Only those who have a perfect combination of events and ideal attitude towards works would be the people who can be showered with success.
 
