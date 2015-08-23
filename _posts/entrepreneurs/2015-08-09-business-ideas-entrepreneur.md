@@ -1,11 +1,14 @@
 ---
 layout: page
+sidebar: right
 subheadline: Entrepreneurs
 title:  "Business Ideas Entrepreneur"
 teaser: "Brilliant Business Ideas for Entrepreneurs
 
 Starting a Business takes a lot of thinking and planning. Finding an excellent business idea can be a daunting task - what with the different options of business ideas you can choose from. In this article, we will explore the process of finding the right business idea to start on as well as offer some of the hottest and most popular business ideas..."
 breadcrumb: true
+meta_description:
+description:
 categories:
     - entrepreneurs
 tags:

@@ -17,20 +17,21 @@
 
 $text-color:       	#314d5d;
 $body-font-color: 	$text-color;
-$body-bg: 			#f2f2f2;
-$box-shadow:        #ccc;
+$body-bg: 			#FAFAFA;
+$box-shadow:        #979797;
 
 
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$accent: #03a9f4;
+$ci-1: #1f1f1f;		// dark turquoise
+$ci-2: #2b2b2b;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #80cbc4;     // teal20
+$ci-6: #313131;     // teal20
 
 
 
@@ -71,25 +72,25 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: #fff;
+$topbar-bg-color: $grey-16;
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color: #314d5d;
-$topbar-link-color-hover: #314d5d;
-$topbar-link-color-active: #314d5d;
-$topbar-link-color-active-hover: #314d5d;
+$topbar-link-color: $grey-5;
+$topbar-link-color-hover: #fff;
+$topbar-link-color-active: #fff;
+$topbar-link-color-active-hover: #fff;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $ci-1;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active-hover: $ci-1;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #314d5d;
+$topbar-dropdown-bg: $ci-1; // Background Mobile Navigation
+$topbar-dropdown-link-color: #a4a4a4;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
@@ -104,12 +105,12 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $grey-14;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $accent;
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: $grey-16;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 

@@ -5,47 +5,6 @@
 - title: Projects
   url: "/products/"
   side: left
-  dropdown:
-  - title: "Email Profiteers"
-    url: /pages/EmailProfiteers
-
-  - title: "Entrepreneurs"
-    url: /pages/Entrepreneurs
-
-  - title: "Forex Trading"
-    url: /pages/ForexTrading
-
-  - title: "Forex Trading 1"
-    url: /pages/ForexTrading1
-
-  - title: "Forex Trading Revolution"
-    url: /pages/ForexTradingRevolution
-
-  - title: "Internet Marketing"
-    url: /pages/InternetMarketing
-
-  - title: "Online Poker"
-    url: /pages/OnlinePoker
-
-  - title: "Prosperity Pursuit"
-    url: /pages/ProsperityPursuit
-
-  - title: "Social Media Power"
-    url: /pages/SocialMediaPower
-
-  - title: "Trademarking Cover"
-    url: /pages/TrademarkingCover
-
-  - title: "Dating Digest"
-    url: /pages/DatingDigest
-
-  - title: "Body Fat Inferno"
-    url: /pages/BodyFatInferno
-
-
-- title: Bookshelf
-  url: "/products/"
-  side: left
 
 - title: "Search"
   url: "/search/"

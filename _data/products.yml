@@ -1,95 +1,96 @@
 - name: EmailProfiteers
-  url: /pages/EmailProfiteers
   title: "Email Profiteers"
+  url: /pages/EmailProfiteers
   short_description: "1Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: EmailProfiteers.jpg
-  gumroad: https://gum.co/zvKqj
+  gumroad: https://gum.co/Wzexs
   price: "$19.991"
+  keywords: 
 
 - name: Entrepreneurs
-  url: /pages/Entrepreneurs
   title: "Entrepreneurs"
+  url: /pages/Entrepreneurs
   short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: Entrepreneurs.jpg
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/Icqbi
   price: "$19.992"
 
 - name: ForexTrading
-  url: /pages/ForexTrading
   title: "Forex Trading"
+  url: /pages/ForexTrading
   short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ForexTrading.jpg
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/UXbO
   price: "$19.993"
 
-- name: ForexTrading1
-  url: /pages/ForexTrading1
-  title: "Forex Trading 1"
-  short_description: "4Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: ForexTrading1.jpg
-  gumroad: https://gum.co/XXXX
-  price: "$19.994"
-
-- name: ForexTradingRevolution
-  url: /pages/ForexTradingRevolution
-  title: "Forex Trading Revolution"
-  short_description: "5Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: ForexTradingRevolution.jpg
-  gumroad: https://gum.co/XXXX
-  price: "$19.995"
-
 - name: InternetMarketing
-  url: /pages/InternetMarketing
   title: "Internet Marketing"
+  url: /pages/InternetMarketing
   short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: InternetMarketing.jpg
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/ywjU
   price: "$19.996"
 
 - name: OnlinePoker
-  url: /pages/OnlinePoker
   title: "Online Poker"
+  url: /pages/OnlinePoker
   short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: OnlinePoker.jpg
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/YPsj
   price: "$19.997"
 
 - name: ProsperityPursuit
-  url: /pages/ProsperityPursuit
   title: "Prosperity Pursuit"
+  url: /pages/ProsperityPursuit
   short_description: "8Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: ProsperityPursuit.jpg
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/lcSxC
   price: "$19.998"
 
 - name: SocialMediaPower
-  url: /pages/SocialMediaPower
   title: "Social Media Power"
+  url: /pages/SocialMediaPower
   short_description: "9Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
   image: SocialMediaPower.jpg
   gumroad: https://gum.co/XXXX
   price: "$19.999"
 
-- name: TrademarkingCover
-  url: /pages/TrademarkingCover
-  title: "Trademarking Cover"
-  short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
-  gumroad: https://gum.co/XXXX
-  price: "$19.9910"
-  image: TrademarkingCover.jpg
+- name: VegetarianFoodandCooking
+  title: "Vegetarian Food and Cooking"
+  url: /pages/VegetarianFoodandCooking
+  short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: VegetarianFoodandCooking.jpg
+  gumroad: https://gum.co/Whzi
+  price: "$19.999"
+
+- name: WebsiteIdeas
+  title: "Website Ideas"
+  url: /pages/WebsiteIdeas
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/RZLN
+  price: "$19.9911"
+  image: WebsiteIdeas.jpg
+
+- name: EliminateStress
+  title: "Eliminate Stress"
+  url: /pages/EliminateStress
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/Xkebh
+  price: "$19.9911"
+  image: EliminateStress.jpg
 
 - name: DatingDigest
-  url: /pages/DatingDigest
   title: "Dating Digest"
+  url: /pages/DatingDigest
   short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/wfqK
   price: "$19.9911"
   image: DatingDigest.png
 
 - name: BodyFatInferno
-  url: /pages/BodyFatInferno
   title: "Body Fat Inferno"
+  url: /pages/BodyFatInferno
   short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
-  gumroad: https://gum.co/XXXX
+  gumroad: https://gum.co/XFCsW
   price: "$19.9911"
   image: BodyFatInferno.png

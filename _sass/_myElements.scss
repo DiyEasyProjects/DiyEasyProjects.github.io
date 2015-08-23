@@ -1,10 +1,12 @@
 /* My classes
 ------------------------------------------------------------------- */
 
-.boxShadowNoTop {
-  //box-shadow: 0 5px 12px $box-shadow;
+ul li {
+	list-style-type: none;
 }
-
+#subfooter a {
+	text-transform: lowercase !important;
+}
 
 #logo {
 	font-size: 0.8em;
@@ -34,4 +36,8 @@
 			margin-left: 320px;
 		}	
 	}
+}
+
+.top-bar {
+	opacity: 0.9;
 }
