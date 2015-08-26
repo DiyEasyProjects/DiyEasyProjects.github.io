@@ -3,15 +3,15 @@
 #   class: icon-youtube
 #   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-# - name: Twitter
-#   url: http://twitter.com/phlow
-#   class: icon-twitter
-#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Twitter
+  url: https://twitter.com/DIYEasyProjects
+  class: icon-twitter
+  title: "Twitter page"
 
-# - name: Facebook
-#   url: http://www.facebook.com/phlow.media
-#   class: icon-facebook
-#   title: "Lass uns Freunde sein!"
+- name: Facebook
+  url: https://www.facebook.com/profile.php?id=100009838277940
+  class: icon-facebook
+  title: "Facebook page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/phlow

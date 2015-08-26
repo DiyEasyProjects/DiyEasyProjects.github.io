@@ -1,6 +1,26 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/contact/"
-  class: "services-contact"
-  title: "Contact"
+- name: "TERMS OF WEBSITE USE"
+  url: "/TermsOfWebsiteUse/"
+  class: "services-TermsOfWebsiteUse"
+  title: "TERMS OF WEBSITE USE"
+
+- name: "PRIVACY POLICY"
+  url: "/PrivacyPolicy/"
+  class: "services-PrivacyPolicy"
+  title: "PRIVACY POLICY"
+
+- name: "DISCLAIMER"
+  url: "/Disclaimer/"
+  class: "services-Disclaimer"
+  title: "DISCLAIMER"
+
+- name: "REFUNDS POLICY"
+  url: "/RefundsPolicy/"
+  class: "services-RefundsPolicy"
+  title: "REFUNDS POLICY"
+
+- name: "SPAM"
+  url: "/SPAM/"
+  class: "services-SPAM"
+  title: "We Do NOT Tolerate SPAM!"
