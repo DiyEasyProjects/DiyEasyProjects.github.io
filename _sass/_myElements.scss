@@ -5,6 +5,60 @@ ul li {
 	list-style-type: none;
 }
 
+.yellow-bg {
+	background-color: #ffd600;
+}
+
+.boxShadow12Light {
+    -webkit-box-shadow: 0 0 12px #bdbdbd;
+    -moz-box-shadow: 0 0 12px #bdbdbd;    
+    box-shadow: 0 0 12px #bdbdbd;
+}
+
+.boxShadow12 {
+    -webkit-box-shadow: 0 0 12px #757575;
+    -moz-box-shadow: 0 0 12px #757575;    
+    box-shadow: 0 0 12px #757575;
+}
+
+.boxShadow15Light {
+    -webkit-box-shadow: 0 0 12px #bdbdbd;
+    -moz-box-shadow: 0 0 12px #bdbdbd;    
+    box-shadow: 0 0 12px #bdbdbd;
+}
+
+.boxShadow15 {
+    -webkit-box-shadow: 0 0 12px #757575;
+    -moz-box-shadow: 0 0 12px #757575;    
+    box-shadow: 0 0 12px #757575;
+}
+
+.content {
+	margin: 10px 0px;
+	padding: 25px 10px 10px;
+	background-color: #e0e0e0;
+	border: none;
+	border-radius: 0.2em;
+	-webkit-box-shadow: 0px 0px 6px #979797;
+	-moz-box-shadow: 0px 0px 6px #979797;
+	box-shadow: 0px 0px 6px #979797;	
+}
+
+@media only screen and (min-width: 580px) {
+	.content {
+		margin: 20px 10px;
+		padding: 25px 15px 10px;
+	}
+}
+
+.disclaimer {
+	margin: 20px;
+	padding: 30px 20px;
+	border: 1px solid #ccc;
+	font-size: 0.7em;
+	position: relative;
+}
+
 .responsive-image {
   max-width: 100%;
   height: auto;
@@ -14,6 +68,7 @@ ul li {
 
 strong, .bold { font-weight: bold }
 .x2 {font-size: 1.1em;}
+.x3 {font-size: 1.3em;}
 
 ul li.checkmark {
 	background-image: url(../../images/checkmark.png);
@@ -31,7 +86,7 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 	line-height: 2em;
 	list-style-type: none;
 	background-position: left top;
-	background-size: 1.8em;
+	background-size: 1.7em;
 	background-repeat: no-repeat;
 	padding-left: 36px;
 	margin-left: 0;

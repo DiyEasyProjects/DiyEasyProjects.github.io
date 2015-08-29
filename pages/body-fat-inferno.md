@@ -11,7 +11,6 @@ price: "$27"
 header:
     title: "Body Fat Inferno"
     background-color: "#00353c"
-#    image: {{site.urlimg}}body-fat-inferno/header1.jpg
 style: ".red{color: #f4511e};"
 ---
 
