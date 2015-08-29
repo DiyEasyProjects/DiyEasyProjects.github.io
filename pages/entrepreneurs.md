@@ -4,7 +4,7 @@ title: "Entrepreneurs"
 meta_title: "Key Principles For Entrepreneurs"
 meta_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore"
 meta_keywords: "lorem, ipsum"
-permalink: /pages/entrepreneurs/
+permalink: /pages/en/
 
 gumroad: https://gum.co/Icqbi
 autor: "Mike Mitchell"

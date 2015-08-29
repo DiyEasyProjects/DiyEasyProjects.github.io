@@ -9,9 +9,9 @@
 
 - name: "Entrepreneurs"
   title: "Entrepreneurs"
-  url: /pages/entrepreneurs
+  url: /pages/en
   short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: entrepreneurs.jpg
+  image: en.jpg
   gumroad: https://gum.co/Icqbi
   price: "$19.992"
 
