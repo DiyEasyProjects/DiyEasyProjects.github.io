@@ -3,7 +3,7 @@ layout: page
 title: "We Do NOT Tolerate SPAM!"
 header: false
 show_meta: false
-permalink: "/SPAM/"
+permalink: "/spam/"
 ---
 
 Most of our Affiliates that sell our products respect our ethical code, but

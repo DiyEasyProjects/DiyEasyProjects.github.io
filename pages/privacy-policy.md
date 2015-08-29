@@ -3,7 +3,7 @@ layout: page
 title: "PRIVACY POLICY"
 header: false
 show_meta: false
-permalink: "/PrivacyPolicy/"
+permalink: "/privacy-policy/"
 ---
 
 

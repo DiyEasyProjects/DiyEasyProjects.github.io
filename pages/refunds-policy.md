@@ -3,7 +3,7 @@ layout: page
 title: "REFUNDS POLICY"
 header: false
 show_meta: false
-permalink: "/RefundsPolicy/"
+permalink: "/refunds-policy/"
 ---
 
 We are confident that you'll get the results you're expecting from our 

@@ -3,7 +3,7 @@ layout: page
 title: "TERMS OF WEBSITE USE"
 header: false
 show_meta: false
-permalink: "/TermsOfWebsiteUse/"
+permalink: "/terms-of-website-use/"
 ---
 
 This website (the "Site") is owned and operated by DIY Easy Projects ("we" 

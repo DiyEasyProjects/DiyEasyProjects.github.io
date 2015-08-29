@@ -7,7 +7,7 @@ permalink: /pages/email-profiteers/
 
 gumroad: https://gum.co/Wzexs
 autor: "Mike Mitchell"
-price: "$27"
+price: "$17"
 date: "yes"
 
 header:
@@ -205,7 +205,7 @@ It's time for you to **shift your online business into high gear** and give your
 <div class="content">
     <ul>
         <li class="checkmark"><u class="bold">Yes!</u> I understand that I will receive <strong class="yellow-bg">INSTANT access</strong> upon receipt of payment so that I can start building a profitable mailing list today!</li>
-        <li class="checkmark"><u class="bold">Yes!</u> <strong>I'll only invest a ONE TIME payment of only $47.00</strong>, as part of this special introductory offer! <em>After that the price will <strong>dramatically</strong> increase with no prior notice!</em></li>
+        <li class="checkmark"><u class="bold">Yes!</u> <strong>I'll only invest a ONE TIME payment of only {{page.price}}</strong>, as part of this special introductory offer! <em>After that the price will <strong>dramatically</strong> increase with no prior notice!</em></li>
         <li class="checkmark"><u class="bold">Yes!</u> I understand that there are <strong class="yellow-bg">ZERO risks involved</strong>, because Email Profiteers offers a <strong>NO RISK, 60 day "Try It And Buy It" Guarantee!</strong></li>
     </ul>
 </div>
