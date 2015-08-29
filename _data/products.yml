@@ -1,0 +1,96 @@
+- name: email-profiteers
+  title: "Email Profiteers"
+  url: /pages/email-profiteers/
+  short_description: "1Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: email-profiteers.jpg
+  gumroad: https://gum.co/Wzexs
+  price: "$19.991"
+  keywords: 
+
+- name: entrepreneurs
+  title: "Entrepreneurs"
+  url: /pages/entrepreneurs
+  short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: entrepreneurs.jpg
+  gumroad: https://gum.co/Icqbi
+  price: "$19.992"
+
+- name: forex-trading
+  title: "Forex Trading"
+  url: /pages/forex-trading
+  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: forex-trading.jpg
+  gumroad: https://gum.co/UXbO
+  price: "$19.993"
+
+- name: internet-marketing
+  title: "Internet Marketing"
+  url: /pages/internet-marketing
+  short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: internet-marketing.jpg
+  gumroad: https://gum.co/ywjU
+  price: "$19.996"
+
+- name: online-poker
+  title: "Online Poker"
+  url: /pages/online-poker
+  short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: online-poker.jpg
+  gumroad: https://gum.co/YPsj
+  price: "$19.997"
+
+- name: prosperity-pursuit
+  title: "Prosperity Pursuit"
+  url: /pages/prosperity-pursuit
+  short_description: "8Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: prosperity-pursuit.jpg
+  gumroad: https://gum.co/lcSxC
+  price: "$19.998"
+
+- name: social-media-power
+  title: "Social Media Power"
+  url: /pages/social-media-power
+  short_description: "9Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: social-media-power.jpg
+  gumroad: https://gum.co/XXXX
+  price: "$19.999"
+
+- name: vegetarian-foodand-cooking
+  title: "Vegetarian Food and Cooking"
+  url: /pages/vegetarian-foodand-cooking
+  short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: vegetarian-foodand-cooking.jpg
+  gumroad: https://gum.co/Whzi
+  price: "$19.999"
+
+- name: website-ideas
+  title: "Website Ideas"
+  url: /pages/website-ideas
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/RZLN
+  price: "$19.9911"
+  image: website-ideas.jpg
+
+- name: eliminate-stress
+  title: "Eliminate Stress"
+  url: /pages/eliminate-stress
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/Xkebh
+  price: "$19.9911"
+  image: eliminate-stress.jpg
+
+- name: dating-digest
+  title: "Dating Digest"
+  url: /pages/dating-digest
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/wfqK
+  price: "$19.9911"
+  image: dating-digest.png
+
+- name: body-fat-inferno
+  title: "Body Fat Inferno"
+  url: "/pages/body-fat-inferno/"
+  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  gumroad: https://gum.co/XFCsW
+  price: "$27"
+  image: "body-fat-inferno.png"
