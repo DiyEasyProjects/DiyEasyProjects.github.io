@@ -4,6 +4,120 @@
 ul li {
 	list-style-type: none;
 }
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto !important;
+  display: block;
+}
+
+strong, .bold { font-weight: bold }
+.x2 {font-size: 1.1em;}
+
+ul li.checkmark {
+	background-image: url(../../images/checkmark.png);
+}
+ul li.arrow {
+	background-image: url(../../images/arrow.png);
+}
+ul li.pluss {
+	background-image: url(../../images/pluss.png);
+}
+ul li.xmark {
+	background-image: url(../../images/xmark.png);
+}
+ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
+	line-height: 2em;
+	list-style-type: none;
+	background-position: left top;
+	background-size: 1.8em;
+	background-repeat: no-repeat;
+	padding-left: 36px;
+	margin-left: 0;
+}
+
+.margin-bottom {
+	margin-bottom: 16px !important;
+}
+
+.left { text-align: left }
+.center { 
+	text-align: center;
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+	margin-bottom: 18px !important;
+}
+.right { text-align: right }
+.justify { text-align: justify }
+
+.centerDiv { margin: 0 auto }
+.floatLeft { float: left }
+.floatRight { float: right }
+.floatNone { float: none }
+
+.relative { position: relative }
+.absolute { position: absolute }
+
+.content-box {
+	margin: -150px auto 0;
+	background-color: #ffffee;
+	border: none;
+	padding: 30px;
+	border-radius: 0.2em;
+	-webkit-box-shadow: 0px 2px 10px #676767;
+	-moz-box-shadow: 0px 2px 10px #676767;
+	box-shadow: 0px 2px 10px #676767;
+}
+
+@media only screen and (min-width:480px) and (max-width: 680px) {
+  .content-box {
+    margin-top: -100px; 
+  }
+}
+
+@media only screen and (max-width: 580px) {
+	br {
+		display: none !important;
+	}
+  .content-box {
+    padding: 15px; 
+    margin-top: -100px; 
+  }
+}
+
+.clearfix {
+  float: none;
+  clear: both !important;
+}
+
+
+.order-button {
+	display: block;
+	text-align: center;
+	max-width: 300px;
+	margin: 2em auto;
+	font-size: 1.2em;
+	font-weight: 900;
+	padding: 15px;
+	background: #ffd600;
+	box-shadow: 0 0px 2px #607d8b;
+	border-radius: 2px;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	ms-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+	border: none;
+	&:focus, &:hover {
+		box-shadow: 0 1px 20px #607d8b;
+		zoom: 1;
+		filter: alpha(opacity=70);
+		opacity: 0.7;
+		border-bottom: none !important;
+	}
+}
+
 #subfooter a {
 	text-transform: lowercase !important;
 }

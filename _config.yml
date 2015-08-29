@@ -91,6 +91,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "BuyThis"
+      nocss: false
   -
     scope:
       path: ""        
@@ -100,6 +101,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "BuyThis"
+      nocss: false
 
 
 

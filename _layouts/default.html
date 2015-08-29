@@ -3,14 +3,23 @@ layout: compress
 ---
 {% include head.html %}
 <body id="top-of-page" class="{{ page.format }}">
-	{% include navigation.html %}
 
-	{% include masthead.html %}
+	{% if page.nocss != true %}
+
+		{% include navigation.html %}
+
+		{% include masthead.html %}
+
+	{% endif %}
 
 	{{ content }}
 
-	{% include footer.html %}
-	
-	{% include footer_scripts.html %}
+	{% if page.nocss != true %}
+
+		{% include footer.html %}
+		
+		{% include footer_scripts.html %}
+
+	{% endif %}
 </body>
 </html>
