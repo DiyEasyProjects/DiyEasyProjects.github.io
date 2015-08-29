@@ -156,6 +156,8 @@ When you actually begin building your mailing list and you experience, first han
 
 <img class="responsive-image" src="{{site.urlimg}}email-profiteers/cover.jpg" alt="{{page.title}}">
 
+<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+
 <strong class="yellow-bg">Here's even more of what you will learn:</strong>
 
 
