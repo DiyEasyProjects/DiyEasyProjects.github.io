@@ -28,3 +28,11 @@ format: page-fullwidth
 
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
+
+
+{% if page.date %}
+<script>
+	var d = new Date();
+	document.getElementById("date").innerHTML = d.toDateString();
+</script>
+{% endif %}

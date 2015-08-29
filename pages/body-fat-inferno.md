@@ -15,7 +15,9 @@ style: ".red{color: #f4511e};"
 ---
 
 <h3 class="center red bold">How to get a Rock-hard "Beach Body" in 10 weeks or Less!</h3>
+
 Worried you won't have a rock-hard beach body by summer?
+
 <h3 class="center bold">Discover How To Drop 20 Pounds, 8% Body Fat, and FINALLY Look "Ripped" in 10 Weeks or Less!</h3>
 
 <p class="x2 center">Don't think it's possible? Think again...</p>
@@ -168,7 +170,7 @@ I wrote down exactly what I was doing - exactly what my friend showed me weeks a
 
 <em class="bold x2">That's exactly what I have for you here. Introducing...</em>
 
-<img class="responsive-image" src="{{site.urlimg}}thumb/body-fat-inferno.png" alt="">
+<img class="responsive-image" src="{{site.urlimg}}thumb/body-fat-inferno.png" alt="{{page.title}}">
 <a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
 
 I hold nothing back in this value-packed guide... 
