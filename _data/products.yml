@@ -7,13 +7,6 @@
   price: "$19.991"
   keywords: 
 
-- name: "Entrepreneurs"
-  title: "Entrepreneurs"
-  url: /pages/entrepreneurs
-  short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: entrepreneurs.jpg
-  gumroad: https://gum.co/Icqbi
-  price: "$19.992"
 
 - name: ForexTrading
   title: "Forex Trading"
