@@ -3,7 +3,7 @@ layout: page
 title: "DISCLAIMER"
 header: false
 show_meta: false
-permalink: "/dis/"
+permalink: "/disclaimer/"
 ---
 
 The materials contained on our site are provided for general information 
