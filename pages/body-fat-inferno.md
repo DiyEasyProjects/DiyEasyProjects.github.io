@@ -6,7 +6,8 @@ permalink: /pages/body-fat-inferno/
 
 gumroad: https://gum.co/XFCsW
 autor: "Mike Mitchell"
-price: "$27"
+price: "$17"
+discount: "$20"
 
 header:
     title: "Body Fat Inferno"
@@ -292,7 +293,7 @@ Here's what to do next...
 
 <a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
 
-<strong>To Your New Body,</strong>
+<strong class="no-margin">To Your New Body,</strong>
 
 {{page.autor}}
 

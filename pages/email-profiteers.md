@@ -8,6 +8,7 @@ permalink: /pages/email-profiteers/
 gumroad: https://gum.co/Wzexs
 autor: "Mike Mitchell"
 price: "$17"
+discount: "$20"
 date: "yes"
 
 header:
@@ -20,8 +21,7 @@ style: ".red{color: #3949ab};"
 
 <img class="responsive-image" src="{{site.urlimg}}email-profiteers/headline2.jpg" alt="{{page.title}}">
 
-
-<p class="bold">From: {{page.autor}}</p>
+<p class="bold no-margin">From: {{page.autor}}</p>
 <p>Date: <span id="date"></span></p>
 
 **Dear Friend,**
@@ -227,7 +227,7 @@ It's time for you to **shift your online business into high gear** and give your
 
 </div>
 
-To your success,
+<p class="no-margin">To your success,</p>
 {{page.autor}}
 
 **P. S:** There is **absolutely no reason why you can't build your own highly profitable mailing list** with this proven system to email marketing! I will show you how to instantly eliminate all of the time consuming work so you can focus on making MORE money in LESS time - <u>guaranteed</u>.
