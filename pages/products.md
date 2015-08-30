@@ -15,13 +15,13 @@ header:
     <div class="small-12 medium-4 columns">
       <div class="item-wrapper">
         <div class="img-wrapper">
-            <span data-tooltip data-options="hover_delay: 0;" aria-haspopup="true" class="has-tip [tip-top tip-bottom tip-left tip-right] [radius round]" title="ADD TO CART"><a href="{{product.gumroad}}" class="gumroad-button button expand add-to-cart">Add to Cart</a></span>
+            <span data-tooltip data-options="hover_delay: 0;" title="ADD TO CART"><a href="{{product.gumroad}}" class="gumroad-button button expand add-to-cart">Add to Cart</a></span>
              
 
-            <span data-tooltip data-options="hover_delay: 0;" aria-haspopup="true" class="has-tip [tip-top tip-bottom tip-left tip-right] [radius round]" title="READ MORE"><a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><img class=" medium-centered" src="{{site.urlimg}}/thumb/{{ product.image }}"></a></span>
+            <span data-tooltip data-options="hover_delay: 0;" title="READ MORE"><a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><img class=" medium-centered" src="{{site.urlimg}}/thumb/{{ product.image }}"></a></span>
           
         </div>  
-         <span data-tooltip data-options="hover_delay: 0;" aria-haspopup="true" class="has-tip [tip-top tip-bottom tip-left tip-right] [radius round]" title="READ MORE"><a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><h3 class="bold">{{ product.title }}</h3></a></span>
+         <span data-tooltip data-options="hover_delay: 0;" title="READ MORE"><a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><h3 class="bold">{{ product.title }}</h3></a></span>
         
         <p class="x2">Retail: <span class="line-trough">{{product.retail}}</span>, 
         <strong class="x3">Today's Price: {{product.price}}</strong></p>

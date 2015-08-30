@@ -20,8 +20,8 @@ description: "From the love for our diy ideas for crafts and hobbies, our blog h
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://diyeasyprojects.github.io"
-urlimg: "https://diyeasyprojects.github.io/images/"
+# url: "https://diyeasyprojects.github.io"
+# urlimg: "https://diyeasyprojects.github.io/images/"
 
 baseurl: ""
 
@@ -37,8 +37,8 @@ baseurl: ""
 #
 
 
-# url: "http://localhost:4000"
-# urlimg: "http://localhost:4000/images/"
+url: "http://localhost:4000"
+urlimg: "http://localhost:4000/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
