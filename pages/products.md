@@ -16,8 +16,9 @@ permalink: "/products/"
           <a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><img class=" medium-centered" src="{{site.urlimg}}/thumb/{{ product.image }}"></a>
         </div>  
 
-        <a href="#"><h3>{{ product.title }}</h3></a>
-        <h5>{{product.price}}</h5>
+        <a href="{{ site.url }}{{ site.baseurl }}/pages/{{ product.name }}"><h3 class="bold">{{ product.title }}</h3></a>
+        <p class="x2">Retail: <span class="line-trough">{{product.retail}}</span>, 
+        <strong class="x3">Today's Price: {{product.price}}</strong></p>
         <!-- <p>{{product.short_description}}</p> -->
       </div>  
     </div>

@@ -8,7 +8,9 @@ permalink: /pages/email-profiteers/
 gumroad: https://gum.co/Wzexs
 autor: "Mike Mitchell"
 price: "$17"
+retail: "$37"
 discount: "$20"
+money-back: 60
 date: "yes"
 
 header:
@@ -156,7 +158,7 @@ When you actually begin building your mailing list and you experience, first han
 
 <img class="responsive-image" src="{{site.urlimg}}email-profiteers/cover.jpg" alt="{{page.title}}">
 
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+{% include buy-button.html %}
 
 <strong class="yellow-bg">Here's even more of what you will learn:</strong>
 
@@ -206,7 +208,7 @@ It's time for you to **shift your online business into high gear** and give your
     <ul>
         <li class="checkmark"><u class="bold">Yes!</u> I understand that I will receive <strong class="yellow-bg">INSTANT access</strong> upon receipt of payment so that I can start building a profitable mailing list today!</li>
         <li class="checkmark"><u class="bold">Yes!</u> <strong>I'll only invest a ONE TIME payment of only {{page.price}}</strong>, as part of this special introductory offer! <em>After that the price will <strong>dramatically</strong> increase with no prior notice!</em></li>
-        <li class="checkmark"><u class="bold">Yes!</u> I understand that there are <strong class="yellow-bg">ZERO risks involved</strong>, because Email Profiteers offers a <strong>NO RISK, 60 day "Try It And Buy It" Guarantee!</strong></li>
+        <li class="checkmark"><u class="bold">Yes!</u> I understand that there are <strong class="yellow-bg">ZERO risks involved</strong>, because Email Profiteers offers a <strong>NO RISK, {{page.money-back}} day "Try It And Buy It" Guarantee!</strong></li>
     </ul>
 </div>
 
@@ -223,7 +225,7 @@ It's time for you to **shift your online business into high gear** and give your
 
     This is yet another reason why you shouldn't pass up on this offer, and give yourself the opportunity to <strong>maximize your online income today</strong>!
 
-    <a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+    {% include buy-button.html %}
 
 </div>
 
@@ -236,7 +238,7 @@ As long as you take action <a href="{{page.gumroad}}">right now</a> and quickly 
 
 Think about it, if you aren't building a list and allowing your customer base to directly connect and communicate with you, your competitor is.. stop losing money today!
 
-**P.PS:** I am shouldering ALL risks, so you have absolutely no reason to hesitate. I want you to be successful, and to eliminate any risks involved, **I am offering a full 60 day money back guarantee** that protects your purchase giving you the opportunity to 'try it before you buy it'. Not satisfied, simply contact me for a full refund for up to 60 days!
+**P.PS:** I am shouldering ALL risks, so you have absolutely no reason to hesitate. I want you to be successful, and to eliminate any risks involved, **I am offering a full {{page.money-back}} day money back guarantee** that protects your purchase giving you the opportunity to 'try it before you buy it'. Not satisfied, simply contact me for a full refund for up to {{page.money-back}} days!
 
 **P.P.PS: It’s easy to get started right away.** Just <a href="{{page.gumroad}}">click here</a> and you can have immediate access to this incredible all inclusive guide to email marketing!
 

@@ -102,6 +102,10 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 	margin: 0 !important;
 }
 
+.line-trough {
+	text-decoration: line-through;
+}
+
 .left { text-align: left }
 .center { 
 	text-align: center;
@@ -157,7 +161,7 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 	display: block;
 	text-align: center;
 	max-width: 300px;
-	margin: 2em auto;
+	margin: 0 auto 2.5em;
 	font-size: 1.2em;
 	font-weight: 900;
 	padding: 15px;

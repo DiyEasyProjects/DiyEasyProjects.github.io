@@ -7,7 +7,10 @@ permalink: /pages/body-fat-inferno/
 gumroad: https://gum.co/XFCsW
 autor: "Mike Mitchell"
 price: "$17"
+retail: "$37"
 discount: "$20"
+money-back: 60
+date: "yes"
 
 header:
     title: "Body Fat Inferno"
@@ -66,7 +69,7 @@ I wanted to get lean once and for all, to go out during the summer and have peop
   
 More importantly, I decided to go into the Air force. 
   
-But one glaring problem stood in my way: I had to be under 160 pounds to join. At the time, I clocked in at a solid 185 and wasn't making any progress weight-wise. 
+But one glaring problem stood in my way: I had to be under 1{{page.money-back}} pounds to join. At the time, I clocked in at a solid 185 and wasn't making any progress weight-wise. 
 
 <h3 class="center red bold">I had to lose over 20 pounds, and I only had a 12-week window to do it in.</h3>
 
@@ -172,7 +175,8 @@ I wrote down exactly what I was doing - exactly what my friend showed me weeks a
 <em class="bold x2">That's exactly what I have for you here. Introducing...</em>
 
 <img class="responsive-image" src="{{site.urlimg}}thumb/body-fat-inferno.png" alt="{{page.title}}">
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+
+{% include buy-button.html %}
 
 I hold nothing back in this value-packed guide... 
   
@@ -243,15 +247,15 @@ So that's exactly what I did!
   
 I went through the diet plan I followed in the {{page.title}} and wrote down exactly what to buy for the entire program - even in weekly portions. You're getting a full shopping list that you can immediately print out and take with you to get in and out of the grocery store in 15 minutes (and for cheap!).
 
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+{% include buy-button.html %}
 
 <h3 class="center red bold margin-bottom">Would You Like To "Test Drive" This Entire Program?</h3>
 
 I know this fitness program works and you'll see that within one week of following it.  
   
-And to prove that, <u>I want to let you test drive it for a full 60 days.</u> 
+And to prove that, <u>I want to let you test drive it for a full {{page.money-back}} days.</u> 
   
-Try out the {{page.title}} today, bust ass with it and really apply yourself. And any time within the first 60 days - if you're not completely satisfied with it or you don't think it's working (no way that could happen if you follow it) then I'll send you back every penny and we part as friends. 
+Try out the {{page.title}} today, bust ass with it and really apply yourself. And any time within the first {{page.money-back}} days - if you're not completely satisfied with it or you don't think it's working (no way that could happen if you follow it) then I'll send you back every penny and we part as friends. 
   
 <strong>You really have nothing to lose and everything to gain...</strong> 
 
@@ -291,15 +295,14 @@ Here's what to do next...
 
 <h3 class="center red bold">Click the Buy Now button below to get Instant Access to {{page.title}} and all the bonuses NOW:</h3>
 
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+{% include buy-button.html %}
 
-<strong class="no-margin">To Your New Body,</strong>
+<p class="bold no-margin">To Your New Body,</p>
+<p>{{page.autor}}</p>
 
-{{page.autor}}
+<strong>PS</strong> - Don't forget... I'm letting take this program out for a full {{page.money-back}}-day test drive so you can see for yourself it really does work. (That's almost DOUBLE the time it will take to achieve results with this program.) 
 
-<strong>PS</strong> - Don't forget... I'm letting take this program out for a full 60-day test drive so you can see for yourself it really does work. (That's almost DOUBLE the time it will take to achieve results with this program.) 
-
-At any time during those 60 days, if you're not completely 100% satisfied - or if you don't see any results after really applying yourself to this program and working hard at it - then I'll refund every penny to you and we'll part as friends. All the risk is on me! 
+At any time during those {{page.money-back}} days, if you're not completely 100% satisfied - or if you don't see any results after really applying yourself to this program and working hard at it - then I'll refund every penny to you and we'll part as friends. All the risk is on me! 
 
 <strong>PPS</strong> - Make sure to take before/after pictures and send them to me when you see results so I can feature you as a <em>"{{page.title}} Success Story"</em>!
 

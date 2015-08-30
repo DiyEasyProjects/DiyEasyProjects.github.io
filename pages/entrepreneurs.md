@@ -8,9 +8,10 @@ permalink: /pages/entrepreneurs/
 
 gumroad: https://gum.co/Icqbi
 autor: "Mike Mitchell"
-price: "$27.77"
-retail: "$47.77"
+price: "$17"
+retail: "$37"
 discount: "$20"
+money-back: 60
 date: "yes"
 
 header:
@@ -87,17 +88,17 @@ And this isn't one of those "Latin" books where you don't understand what's bein
 
 This truly is a one-of-a-kind book that can not be found offline, or online other than right here.  I urge you to click the link below and place your secure order...
 
-"{{page.meta_title}} " sale, I'm willing to give you an instant $20 rebate..
+"{{page.meta_title}} " sale, I'm willing to give you an instant {{page.discount}} rebate..
 
-So, you can get your own copy of my "{{page.meta_title}} " for only {{page.price}}.
+**So, you can get your own copy of my "{{page.meta_title}} " for <span class="red">only {{page.price}}</span>.**
 
 But don't worry, you're purchase is not only safe, it's guaranteed to make your day..  If it doesn't, that's ok!  Check out my "unheard" of money back guarantee deal..
 
 <img class="responsive-image" src="{{site.urlimg}}entrepreneurs/book.jpg" alt="{{page.title}}">
 
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+{% include buy-button.html %}
 
-<p class="x2 center bold">Our Famous, 100%, 90 Day Money-Back Clear As Black-And-White Guarantee!</p>
+<p class="x2 center bold">Our Famous, 100%, {{page.money-back}} Day Money-Back Clear As Black-And-White Guarantee!</p>
 
 <h3 class="center red bold">If After Using What You Learn From My Book, You Don't Learn How To Grow And Stay GREEN , I'll personally Buy My Book Back From You & You Get A 100%, No-Hassle Refund!</h3>
 
@@ -107,7 +108,7 @@ It sure would be great if everything came with a guarantee like this one, right?
 So what are you waiting for?  
 Go ahead and click the "ADD TO CART" button below to start reading your new home entrepreneur book!
 
-<a class="order-button" href="{{page.gumroad}}">ADD TO CART</a>
+{% include buy-button.html %}
 
 You can start reading this book in less than 3 minutes Click here to get your {{page.discount}} discounted copy of {{page.meta_title}} !  There's no absolutely NO risk, so grab it today..
 
@@ -117,6 +118,6 @@ Here's to you, and your extremely entrepreneur venture!
 {{page.autor}}
 
 
-<i class="bold">P.S.</i>    Remember, you have ZERO risk. I'm so convinced that you'll be amazed at all of the information I've squeezed into {{page.meta_title}} that I'm giving you 3 months RISK FREE! Don't wait - Order today and save!
+<i class="bold">P.S.</i>    Remember, you have ZERO risk. I'm so convinced that you'll be amazed at all of the information I've squeezed into {{page.meta_title}} that I'm giving you 2 months RISK FREE! Don't wait - Order today and save!
  
 <i class="bold">P.P.S.</i>  After this marketing test, I will be raising the price back up to the original {{page.retail}} price.  Advertising online can get very expensive, and I'm not even sure if I can keep this offer up much longer!  If you're serious about entrepreneurship, Order Today!
