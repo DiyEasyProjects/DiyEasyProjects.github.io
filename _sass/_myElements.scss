@@ -224,7 +224,11 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 
 .backstretch {
 	img {
-	  -webkit-filter: brightness(0.5);
-	  filter: brightness(0.5);
+		filter: brightness(0.5);
+		-khtml-filter: brightness(0.5);
+		-moz-filter: brightness(0.5);
+		-o-filter: brightness(0.5);
+		-ms-filter: brightness(0.5);
+		-webkit-filter: brightness(0.5);
 	}
 }
