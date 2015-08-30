@@ -1,6 +1,8 @@
 ---
 layout: page-fullwidth
 permalink: "/products/"
+header:
+   image_fullwidth: "book-shelf-1.jpg"
 ---
 
 

@@ -6,7 +6,7 @@
 #
 layout: frontpage
 title: "DIY Easy Projects"
-#header:
-#   image_fullwidth: "entrepreneur.jpg"
+header:
+   image_fullwidth: "book-shelf.jpg"
 
 ---

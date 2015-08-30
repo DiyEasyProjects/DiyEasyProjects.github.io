@@ -191,6 +191,7 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 	font-size: 0.8em;
 	* {
 		color: #f1f1f1;
+		text-shadow: 0 0 4px #333;
 	}
 	.logoH1 {
 		margin-top: 60px;
@@ -219,4 +220,11 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 
 .top-bar {
 	opacity: 0.9;
+}
+
+.backstretch {
+	img {
+	  -webkit-filter: brightness(0.5);
+	  filter: brightness(0.5);
+	}
 }
