@@ -6,8 +6,6 @@ show_meta: false
 permalink: "/privacy-policy/"
 ---
 
-
-
 DIY Easy Projects ("We") are committed to protecting and respecting your
 
 privacy.
