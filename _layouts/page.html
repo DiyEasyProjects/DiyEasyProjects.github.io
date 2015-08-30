@@ -37,8 +37,10 @@ format: post
 
 			<span itemprop="articleSection">
 			{{ content }}
+			{% if page.product_name %}
 			<div class="clearfix"></div>
 			{% include product-presentation.html %}
+			{% endif %}
 			</span>
 
 			{% if page.show_meta == true %}

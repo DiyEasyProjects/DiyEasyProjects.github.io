@@ -4,6 +4,7 @@ sidebar: right
 subheadline: Entrepreneurs
 
 product_name: "email-profiteers"
+product_title: "Email Profiteers"
 product_image: "email-profiteers.jpg"
 product_price: "$17"
 product_retail: "$37"
