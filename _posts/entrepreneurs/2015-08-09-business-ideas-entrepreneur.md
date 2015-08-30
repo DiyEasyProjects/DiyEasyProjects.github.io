@@ -2,6 +2,12 @@
 layout: page
 sidebar: right
 subheadline: Entrepreneurs
+
+product_name: "email-profiteers"
+product_image: "email-profiteers.jpg"
+product_price: "$17"
+product_retail: "$37"
+
 title:  "Business Ideas Entrepreneur"
 teaser: "Brilliant Business Ideas for Entrepreneurs
 

@@ -1,6 +1,8 @@
 /* My classes
 ------------------------------------------------------------------- */
 
+$content-bg: #fffffe;
+
 ul li {
 	list-style-type: none;
 }
@@ -33,6 +35,24 @@ ul li {
     box-shadow: 0 0 12px #757575;
 }
 
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto !important;
+  display: block;
+}
+
+.presentation {
+	margin: 25px 0px;
+	padding: 0 22px;
+	background-color: $content-bg;
+	border: none;
+	@include radius;
+	-webkit-box-shadow: 0px 0px 6px #979797;
+	-moz-box-shadow: 0px 0px 6px #979797;
+	box-shadow: 0px 0px 6px #979797;
+}
+
 .content {
 	margin: 10px 0px;
 	padding: 25px 10px 10px;
@@ -59,13 +79,6 @@ ul li {
 	font-size: 0.7em;
 	position: relative;
 	box-shadow: 0 0 8px #333 inset;
-}
-
-.responsive-image {
-  max-width: 100%;
-  height: auto;
-  margin: 0 auto !important;
-  display: block;
 }
 
 strong, .bold { font-weight: bold }
@@ -116,17 +129,35 @@ ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
 .right { text-align: right }
 .justify { text-align: justify }
 
-.centerDiv { margin: 0 auto }
-.floatLeft { float: left }
-.floatRight { float: right }
-.floatNone { float: none }
+.center-div { margin: 0 auto }
+
+.float-none { float: none }
+
+@media only screen and (min-width: 780px) {
+	.float-left { float: left }
+	.float-right { float: right }
+	.half {width: 50%;}
+}
+
+.padding-top {
+	padding-top: 18px;
+}
+.padding-bottom {
+	padding-bottom: 18px;
+}
+.padding-left {
+	padding-left: 18px; 
+}
+.padding-right {
+	padding-right: 18px;
+}
 
 .relative { position: relative }
 .absolute { position: absolute }
 
 .content-box {
 	margin: -150px auto 0;
-	background-color: #ffffee;
+	background-color: $content-bg;
 	border: none;
 	padding: 30px;
 	@include radius;
