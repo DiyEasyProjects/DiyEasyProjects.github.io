@@ -2,18 +2,17 @@
 layout: page
 sidebar: right
 subheadline: Entrepreneurs
-
-product_name: "email-profiteers"
-product_title: "Email Profiteers"
-product_image: "email-profiteers.jpg"
-product_price: "$17"
-product_retail: "$37"
-product_gumroad: https://gum.co/Wzexs
-
 title:  "Business Ideas Entrepreneur"
 teaser: "Brilliant Business Ideas for Entrepreneurs
-
 Starting a Business takes a lot of thinking and planning. Finding an excellent business idea can be a daunting task - what with the different options of business ideas you can choose from. In this article, we will explore the process of finding the right business idea to start on as well as offer some of the hottest and most popular business ideas..."
+
+product_name: "entrepreneurs"
+product_title: "Entrepreneurs"
+product_image: "entrepreneurs.jpg"
+product_price: "$17"
+product_retail: "$37"
+product_gumroad: https://gum.co/Icqbi
+
 breadcrumb: true
 meta_description:
 description:

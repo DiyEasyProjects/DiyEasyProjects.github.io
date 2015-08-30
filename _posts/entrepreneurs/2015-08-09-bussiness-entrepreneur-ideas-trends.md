@@ -1,10 +1,19 @@
 ---
 layout: page
+sidebar: right
 subheadline: Entrepreneurs
 title:  "Business Entrepreneur Ideas Trends"
 teaser: "Ideas for Entrepreneurs: Realities of Home Based Internet Business Trends 
 
 Before your eye gloss with the thought of establishing your own home based business via Internet, let us first have a reality check..."
+
+product_name: "entrepreneurs"
+product_title: "Entrepreneurs"
+product_image: "entrepreneurs.jpg"
+product_price: "$17"
+product_retail: "$37"
+product_gumroad: https://gum.co/Icqbi
+
 breadcrumb: true
 categories:
     - entrepreneurs
