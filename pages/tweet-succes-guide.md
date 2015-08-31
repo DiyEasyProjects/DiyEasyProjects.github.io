@@ -103,6 +103,7 @@ This book is not available in retail book locations, and its contents are unique
 <h3 class="center bold red">You Have Nothing to Risk With Our 100% Money-Back Guarantee!</h3>
 
 <img class="responsive-image" src="{{site.urlimg}}thumb/the-tweet-succes-guide.jpg" alt="{{page.title}} ebook cover">
+
 {% include buy-button.html %}
 
 Not only is The Tweet Success Guide an extraordinary marketing tool that will change the way you approach social networking on Twitter, but we want to make all this as comfortable for you as possible.  
@@ -131,6 +132,7 @@ This offer is subject to change at anytime and this eBook might be discontinued 
 <p class="center">Get The Tweet Success Guide Now</p>
 
 <img class="responsive-image" src="{{site.urlimg}}thumb/the-tweet-succes-guide.jpg" alt="{{page.title}} ebook cover">
+
 {% include buy-button.html %}
 
 <p class="center">You will receive instant access, any time, day or night.</p>
