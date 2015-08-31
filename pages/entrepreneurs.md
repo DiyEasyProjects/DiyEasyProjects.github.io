@@ -2,8 +2,7 @@
 layout: custom
 title: "Entrepreneurs"
 meta_title: "Key Principles For Entrepreneurs"
-meta_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore"
-meta_keywords: "lorem, ipsum"
+meta_description: "Taking charge of your life is a challenge, but the satisfaction is a million times better than any promotion from any job. Stop procrastinating and start today!"
 permalink: /pages/entrepreneurs/
 
 gumroad: https://gum.co/Icqbi

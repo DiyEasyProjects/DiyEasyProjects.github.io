@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: "Body Fat Inferno"
-meta_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore"
+meta_description: "Your self esteem and general health skyrockets when you take care of your body. Therefore, the quality of your life gets a well deserved boost."
 permalink: /pages/body-fat-inferno/
 
 gumroad: https://gum.co/XFCsW

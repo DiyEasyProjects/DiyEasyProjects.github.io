@@ -20,7 +20,7 @@
 - name: forex-trading
   title: "Forex Trading"
   url: /pages/forex-trading
-  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "In an emerging economy like the one we're living nowadays, profiting from it's growth gets easy like 1,2,3 by using forex. Get your slice of the money pie now!"
   image: forex-trading.jpg
   gumroad: https://gum.co/UXbO
   price: "$17"
@@ -29,7 +29,7 @@
 - name: internet-marketing-from-a-to-z
   title: "Internet Marketing from A to Z"
   url: /pages/internet-marketing-from-a-to-z
-  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "The purpose of a business is to make money. The field of marketing is the most valuable tool in the process of obtaining success from your business"
   image: internet-marketing-from-a-to-z.jpg
   gumroad: https://gum.co/TzCV
   price: "$17"
@@ -38,7 +38,7 @@
 - name: viral-marketing-values
   title: "Viral Marketing Values"
   url: /pages/viral-marketing-values
-  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Internet has become the most efficient promoting tool worldwide. Learn how to use it with this easy to use and comprehensive guide!"
   image: viral-marketing-values.jpg
   gumroad: https://gum.co/DBOtL
   price: "$17"
@@ -47,7 +47,7 @@
 - name: prosperity-pursuit
   title: "Prosperity Pursuit"
   url: /pages/prosperity-pursuit
-  short_description: "8Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Humankind has discovered that becoming prosperous and wealthy is not achievable by chance, it is a science. Start the learning process today!"
   image: prosperity-pursuit.jpg
   gumroad: https://gum.co/lcSxC
   price: "$17"
@@ -56,7 +56,7 @@
 - name: social-media-power
   title: "Social Media Power"
   url: /pages/social-media-power
-  short_description: "9Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "The news travels the fastest through social media. Every word and every second counts when it comes to your business."
   image: social-media-power.jpg
   gumroad: https://gum.co/XXXX
   price: "$17"
@@ -65,7 +65,7 @@
 - name: vegetarian-foodand-cooking
   title: "Vegetarian Food and Cooking"
   url: /pages/vegetarian-foodand-cooking
-  short_description: "10Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Living healthy is an investment in your family and yourself. Start with your food and you'll see the improvement in days! Your energy levels will skyrocket!"
   image: vegetarian-foodand-cooking.jpg
   gumroad: https://gum.co/Whzi
   price: "$17"
@@ -74,7 +74,7 @@
 - name: website-ideas
   title: "Website Ideas"
   url: /pages/website-ideas
-  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  short_description: "As any book is just pages put together and indexed, the Internet is just websites linked together by the search engines. Make sure yours is worthy of it! "  
   gumroad: https://gum.co/RZLN
   price: "$17"
   retail: "$37"
@@ -83,7 +83,7 @@
 - name: eliminate-stress
   title: "Eliminate Stress"
   url: /pages/eliminate-stress
-  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  short_description: "Stress has a worse influence on your health than a lot of poisonous chemicals. Cleanse your body and mind of this poison and start living a better life!"  
   gumroad: https://gum.co/Xkebh
   price: "$17"
   retail: "$37"
@@ -92,7 +92,7 @@
 - name: dating-digest
   title: "Dating Digest"
   url: /pages/dating-digest
-  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  short_description: "The mysteries of the human mind when dating has baffled even the smartest scientists for a long time. Here's the conclusion of their successful studies."  
   gumroad: https://gum.co/wfqK
   price: "$17"
   retail: "$37"
@@ -101,7 +101,7 @@
 - name: body-fat-inferno
   title: "Body Fat Inferno"
   url: "/pages/body-fat-inferno/"
-  short_description: "11Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"  
+  short_description: "Your self esteem and general health skyrockets when you take care of your body. Therefore, the quality of your life gets a well deserved boost."  
   gumroad: https://gum.co/XFCsW
   price: "$27"
   retail: "$47"
@@ -110,7 +110,7 @@
 - name: entrepreneurs
   title: "Entrepreneurs"
   url: /pages/entrepreneurs
-  short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Taking charge of your life is a challenge, but the satisfaction is a million times better than any promotion from any job. Stop procrastinating and start today!"
   image: entrepreneurs.jpg
   gumroad: https://gum.co/Icqbi
   price: "$17"
@@ -119,7 +119,7 @@
 - name: internet-marketing
   title: "Internet Marketing"
   url: /pages/internet-marketing
-  short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Extremely profitable for the trained individual, internet marketing is a growing worldwide industry. Get going today towards financial freedom!"
   image: internet-marketing.jpg
   gumroad: https://gum.co/ywjU
   price: "$17"
@@ -128,7 +128,7 @@
 - name: online-poker
   title: "Online Poker"
   url: /pages/online-poker
-  short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Emerging from a simple card game to a worldwide phenomenon, poker has become a social glue and a money making method. Know your game!"
   image: online-poker.jpg
   gumroad: https://gum.co/YPsj
   price: "$17"
