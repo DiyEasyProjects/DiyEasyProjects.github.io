@@ -1,18 +1,18 @@
 - name: email-profiteers
   title: "Email Profiteers"
   url: /pages/email-profiteers/
-  short_description: "1Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  short_description: "Regarding email marketing, this book will be the last one you'll have to read. Step by step, complete guide to grow your profits from your email sending."
   image: email-profiteers.jpg
   gumroad: https://gum.co/Wzexs
   price: "$17"
   retail: "$37"
   keywords: 
 
-- name: tweet-succes-guide
-  title: "Tweet Succes Guide"
-  url: /pages/tweet-succes-guide
-  short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: tweet-succes-guide.jpg
+- name: the-tweet-succes-guide
+  title: "The Tweet Success Guide"
+  url: /pages/the-tweet-succes-guide
+  short_description: "Powerful words can change the world! Powerful tweets will bring you profits! Way easier than changing the world."
+  image: the-tweet-succes-guide.jpg
   gumroad: https://gum.co/UIAdx
   price: "$17"
   retail: "$37"

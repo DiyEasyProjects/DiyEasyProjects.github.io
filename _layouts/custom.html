@@ -20,7 +20,11 @@ format: page-fullwidth
 	<div class="small-12 medium-10 medium-offset-1 columns">
 		<div class="content-box">
 			<article>
-				
+				<header>
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1 class="small-title">{{ page.title }}</h1>
+				</header>
+
 				{{ content }}
 
 			</article>
