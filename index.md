@@ -5,8 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "DIY Easy Projects"
+title: "DIY Easy Projects | Books"
 header:
    image_fullwidth: "book-shelf.jpg"
-
 ---

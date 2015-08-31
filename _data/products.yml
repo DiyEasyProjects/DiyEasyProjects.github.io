@@ -8,12 +8,12 @@
   retail: "$37"
   keywords: 
 
-- name: entrepreneurs
-  title: "Entrepreneurs"
-  url: /pages/entrepreneurs
+- name: tweet-succes-guide
+  title: "Tweet Succes Guide"
+  url: /pages/tweet-succes-guide
   short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: entrepreneurs.jpg
-  gumroad: https://gum.co/Icqbi
+  image: tweet-succes-guide.jpg
+  gumroad: https://gum.co/UIAdx
   price: "$17"
   retail: "$37"
 
@@ -26,21 +26,21 @@
   price: "$17"
   retail: "$37"
 
-- name: internet-marketing
-  title: "Internet Marketing"
-  url: /pages/internet-marketing
-  short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: internet-marketing.jpg
-  gumroad: https://gum.co/ywjU
+- name: internet-marketing-from-a-to-z
+  title: "Internet Marketing from A to Z"
+  url: /pages/internet-marketing-from-a-to-z
+  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: internet-marketing-from-a-to-z.jpg
+  gumroad: https://gum.co/TzCV
   price: "$17"
   retail: "$37"
 
-- name: online-poker
-  title: "Online Poker"
-  url: /pages/online-poker
-  short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
-  image: online-poker.jpg
-  gumroad: https://gum.co/YPsj
+- name: viral-marketing-values
+  title: "Viral Marketing Values"
+  url: /pages/viral-marketing-values
+  short_description: "3Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: viral-marketing-values.jpg
+  gumroad: https://gum.co/DBOtL
   price: "$17"
   retail: "$37"
 
@@ -106,3 +106,30 @@
   price: "$27"
   retail: "$47"
   image: "body-fat-inferno.png"
+
+- name: entrepreneurs
+  title: "Entrepreneurs"
+  url: /pages/entrepreneurs
+  short_description: "2Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: entrepreneurs.jpg
+  gumroad: https://gum.co/Icqbi
+  price: "$17"
+  retail: "$37"
+
+- name: internet-marketing
+  title: "Internet Marketing"
+  url: /pages/internet-marketing
+  short_description: "6Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: internet-marketing.jpg
+  gumroad: https://gum.co/ywjU
+  price: "$17"
+  retail: "$37"
+
+- name: online-poker
+  title: "Online Poker"
+  url: /pages/online-poker
+  short_description: "7Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, voluptatum?"
+  image: online-poker.jpg
+  gumroad: https://gum.co/YPsj
+  price: "$17"
+  retail: "$37"

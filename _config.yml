@@ -20,8 +20,6 @@ description: "Our informative blog covers topics from diy projects, crafts and h
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://diyeasyprojects.github.io"
-urlimg: "https://diyeasyprojects.github.io/images/"
 
 baseurl: ""
 
@@ -36,6 +34,8 @@ baseurl: ""
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
 
+url: "https://diyeasyprojects.github.io"
+urlimg: "https://diyeasyprojects.github.io/images/"
 
 # url: "http://localhost:4000"
 # urlimg: "http://localhost:4000/images/"
