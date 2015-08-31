@@ -7,8 +7,8 @@ permalink: /pages/the-tweet-succes-guide/
 
 gumroad: https://gum.co/UIAdx
 autor: "Mike Mitchell"
-price: "$17"
-retail: "$37"
+price: "$7"
+retail: "$27"
 discount: "$20"
 date: "yes"
 
