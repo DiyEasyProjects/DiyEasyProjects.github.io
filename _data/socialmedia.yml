@@ -13,6 +13,11 @@
   class: icon-facebook
   title: "Facebook page"
 
+- name: Google+
+  url: https://plus.google.com/110680102820814113719/posts
+  class: icon-google+
+  title: "Google+"
+
 # - name: Soundcloud
 #   url: http://soundcloud.com/phlow
 #   class: icon-soundcloud
