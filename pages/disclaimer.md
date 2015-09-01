@@ -4,6 +4,7 @@ title: "DISCLAIMER"
 header: false
 show_meta: false
 permalink: "/disclaimer/"
+sitemap_priority: 0.4
 ---
 
 The materials contained on our site are provided for general information 

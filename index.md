@@ -6,6 +6,7 @@
 #
 layout: frontpage
 title: "DIY Easy Projects | Books"
+sitemap_priority: 1.0
 header:
    image_fullwidth: "book-shelf.jpg"
 ---

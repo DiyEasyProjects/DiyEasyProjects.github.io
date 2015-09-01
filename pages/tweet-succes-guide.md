@@ -5,6 +5,8 @@ meta_title: "The Tweet Success Guide - Get the most out of your Twitter account"
 meta_description: "Powerful words can change the world! Powerful tweets will bring you profits! Way easier than changing the world."
 permalink: /pages/the-tweet-succes-guide/
 
+sitemap_priority: 0.8
+
 gumroad: https://gum.co/UIAdx
 autor: "Mike Mitchell"
 price: "$7"
@@ -101,10 +103,6 @@ It is by developing marketing venues for perpetual results that you can reduce y
 This book is not available in retail book locations, and its contents are unique to anything out there in softcover or hardcover, so get your copy today and jump into the Twitter action armed and prepared.
 
 <h3 class="center bold red">You Have Nothing to Risk With Our 100% Money-Back Guarantee!</h3>
-
-<img class="responsive-image" src="{{site.urlimg}}thumb/the-tweet-succes-guide.jpg" alt="{{page.title}} ebook cover">
-
-{% include buy-button.html %}
 
 Not only is The Tweet Success Guide an extraordinary marketing tool that will change the way you approach social networking on Twitter, but we want to make all this as comfortable for you as possible.  
 

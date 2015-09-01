@@ -4,6 +4,7 @@ title: "We Do NOT Tolerate SPAM!"
 header: false
 show_meta: false
 permalink: "/spam/"
+sitemap_priority: 0.4
 ---
 
 Most of our Affiliates that sell our products respect our ethical code, but

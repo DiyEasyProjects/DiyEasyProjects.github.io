@@ -6,5 +6,6 @@ show_meta: false
 subheadline: "Our team is here for you 24/7."
 teaser: "Contact us at <a href='mailto:mikemitchelldiyeasyprojects@gmail.com'>mikemitchell@diyeasyprojects.com</a>"
 permalink: "/contact/"
+sitemap_priority: 0.6
 ---
 

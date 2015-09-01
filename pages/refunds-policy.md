@@ -4,6 +4,7 @@ title: "REFUNDS POLICY"
 header: false
 show_meta: false
 permalink: "/refunds-policy/"
+sitemap_priority: 0.4
 ---
 
 We are confident that you'll get the results you're expecting from our 

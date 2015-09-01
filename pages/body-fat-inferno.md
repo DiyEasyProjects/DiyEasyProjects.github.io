@@ -4,6 +4,8 @@ title: "Body Fat Inferno"
 meta_description: "Your self esteem and general health skyrockets when you take care of your body. Therefore, the quality of your life gets a well deserved boost."
 permalink: /pages/body-fat-inferno/
 
+sitemap_priority: 0.8
+
 gumroad: https://gum.co/XFCsW
 autor: "Mike Mitchell"
 price: "$17"

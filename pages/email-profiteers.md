@@ -5,6 +5,8 @@ meta_title: "Email Profiteers: High Profit Email Marketing Secrets!"
 meta_description: "Regarding email marketing, this book will be the last one you'll have to read. Step by step, complete guide to grow your profits from your email sending."
 permalink: /pages/email-profiteers/
 
+sitemap_priority: 0.8
+
 gumroad: https://gum.co/Wzexs
 autor: "Mike Mitchell"
 price: "$17"

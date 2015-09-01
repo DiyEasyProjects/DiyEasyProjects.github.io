@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Search"
 permalink: "/search/"
+sitemap_priority: 0.4
 ---
 
 {% include google_search.html %}

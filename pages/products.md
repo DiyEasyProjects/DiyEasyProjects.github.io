@@ -2,6 +2,9 @@
 layout: page-fullwidth
 permalink: "/products/"
 meta_description: "Our informative blog covers topics from diy projects, crafts and hobbies to marketing tips, healthy lifestyle and much more.."
+
+sitemap_priority: 0.9
+
 header:
    title: Bookshelf
    image_fullwidth: "book-shelf-1.jpg"

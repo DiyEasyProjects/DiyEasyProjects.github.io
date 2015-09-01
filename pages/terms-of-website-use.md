@@ -4,6 +4,7 @@ title: "TERMS OF WEBSITE USE"
 header: false
 show_meta: false
 permalink: "/terms-of-website-use/"
+sitemap_priority: 0.4
 ---
 
 This website (the "Site") is owned and operated by DIY Easy Projects ("we" 

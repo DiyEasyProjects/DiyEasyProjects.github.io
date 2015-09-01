@@ -5,6 +5,8 @@ meta_title: "Key Principles For Entrepreneurs"
 meta_description: "Taking charge of your life is a challenge, but the satisfaction is a million times better than any promotion from any job. Stop procrastinating and start today!"
 permalink: /pages/entrepreneurs/
 
+sitemap_priority: 0.8
+
 gumroad: https://gum.co/Icqbi
 autor: "Mike Mitchell"
 price: "$17"

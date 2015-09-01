@@ -1,0 +1,22 @@
+<url>
+  <loc>https://diyeasyprojects.github.io{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.sitemap.lastmod %}
+    <lastmod>{{ include.entry.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+  {% elsif include.entry.date %}
+    <lastmod>{{ include.entry.date | date_to_xmlschema }}</lastmod>
+  {% else %}
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  {% endif %}
+  {% if include.entry.sitemap_changefreq %}
+    <changefreq>{{ include.entry.sitemap_changefreq }}</changefreq>
+  {% else %}
+    <changefreq>monthly</changefreq>
+  {% endif %}
+  {% if include.entry.sitemap_priority %}
+    <priority>{{ include.entry.sitemap_priority }}</priority>
+  {% else %}
+    <priority>0.7</priority>
+  {% endif %}
+</url>
+
+

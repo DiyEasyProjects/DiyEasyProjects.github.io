@@ -4,6 +4,7 @@ title: "PRIVACY POLICY"
 header: false
 show_meta: false
 permalink: "/privacy-policy/"
+sitemap_priority: 0.8
 ---
 
 DIY Easy Projects ("We") are committed to protecting and respecting your
