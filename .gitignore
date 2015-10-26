@@ -1,2 +1,9 @@
-_site/
-.sass-cache/
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!_site/*
+
+# ...even if they are in subdirectories
+!*/
