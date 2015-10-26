@@ -1,0 +1,136 @@
+---
+layout: custom
+title: "Insider's Guide To Forex Trading"
+meta_title: "Insider's Guide To Forex Trading"
+meta_description: "In an emerging economy like the one we're living nowadays, profiting from it's growth gets easy like 1,2,3 by using forex. Get your slice of the money pie now!"
+permalink: /pages/insider-guide-to-forex-trading/
+
+sitemap_priority: 0.8
+
+gumroad: https://gum.co/MDlYE
+autor: "Mike Mitchell"
+price: "$17"
+retail: "$37"
+discount: "$20"
+date: "yes"
+
+header:
+    title: "Insider's Guide To Forex Trading"
+    background-color: "#216C2A"
+style: ".red{color: #216C2A};"
+---
+
+
+
+<p class="x2 bold center">Discover all of the insider tehniques that pros are using with great success</p>
+<p class="x2 center bold">If you're going to start making big money with forex trading...</p>
+<p class="x2 center bold">Then this may be the most important letter you'll ever read!</p>
+<h3 class="center red bold">You're About To Learn The Secrets To Raking In Massive Amounts Of Cash Forex Trading, No Matter How Much Time You Have Had To Prepare!</h3>
+
+<h3 class="center bold red">It doesn't matter if you've never had any past forex trading experience or education, This guide will tell you everything you need to know, without spending too much brainpower!</h3>
+
+
+<p class="bold no-margin">From: {{page.autor}}</p>
+<p>Date: <span id="date"></span></p>
+
+Dear Friend,
+
+Are you planning on forex trading in the near future?  If so, pay attention!
+
+There's finally a new, breakthrough book created just for people like you!
+
+And, if you really want to have the most successful, forex trading career that will bring a smile to your face, then this book is definitely for <u>YOU!</u>
+
+I myself have forex traded for 5 years, but it wasn't easy my first two times!  I mean, information on this is pretty hard to come across. 
+Especially the kind of information I wanted to know more about.  To be quite honest with you, I got tired of looking and searching all over the place, so I decided to create the definitive book on forex trading!
+
+<h3 class="center bold red">This Isn't Like Any Other General or Generic Book 
+    On Forex Trading You Can Find In Any Store..</h3>
+
+...On the internet, or even at your local library for that matter!
+
+This book covers everything there is to know about forex trading . In fact, some people have called it the **"Forex Trading Manual "**!
+
+It's like having your very own forex expert that you can reference and ask questions anytime that you need to!
+
+You'll uncover a wide array of tips including interesting facts that made them what they are today!
+
+You're going to discover so many things on how to forex trade with little effort!  Not only will you discover new stock market trends, but you'll also learn extra bonus tips to actually teach people.
+
+<h3 class="center bold red">Here's Just "Sneak-Peak" At What You'll Uncover
+    With <u>Insider's Guide To Forex Trading</u></h3>
+
+<ul>
+    <li class="checkmark">Discover exactly what the stock market is all about.</li>
+    <li class="checkmark">Learn new stock market trends.</li>
+    <li class="checkmark">Find out how to understand currency conversion.</li>
+    <li class="checkmark">Discover forex volatility and market expectations.</li>
+    <li class="checkmark">Learn aspects of the trade.</li>
+    <li class="checkmark">The "Buzz" words that you need to know.</li>
+    <li class="checkmark">Discover several risk management factors you need to know.</li>
+    <li class="checkmark">Learn exactly how to read and interpret statistics.</li>
+    <li class="checkmark">Discover how to handle a whipsaw.</li>
+    <li class="checkmark">Find out how to use arbitrage correctly.</li>
+    <li class="checkmark">An in depth look at secondary markets.</li>
+    <li class="checkmark">How to use the foreign exchange market to your advantage.</li>
+    <li class="checkmark">Learn how to properly protect your investments.</li>
+    <li class="checkmark">Exactly how investment works and how it can work for you.</li>
+    <li class="checkmark">Plus much MUCH More!</li>
+</ul>
+
+ <h3 class="center bold red">And The Best Part Is That You Can Be Reading
+     This Book In  Less Than 90 Seconds From Now!</h3>
+
+
+That's right!  No more waiting for the mailman to come to your door 7-10 days later..  You can start reading this book instantly!
+
+It doesn't matter if it's 2 AM in the morning, you'll be downloading and reading "Insider's Guide To Forex Trading " within just a few minutes. There's absolutely no risk to you - so what are you waiting for? Order now!
+
+This new breakthrough book is a guide, really.  A guide as a result of years of searching, studying, and scouring hundreds of websites, stores, and magazines.
+
+And this isn't one of those "Latin" books where you don't understand what's being said.  Everything is in plain English, so you can put the Latin book away :)  This easy to read forex trading book is completely comprehendible and won't take weeks to read.
+
+This truly is a one-of-a-kind book that can not be found offline, or online other than right here.  I urge you to click the link below and place your secure order...
+
+"Insider's Guide To Forex Trading" normally sells for {{page.retail}}, but as part of my "Finally getting this on the internet" sale, I'm willing to give you an instant {{page.discount}} rebate..
+
+So, you can get your own copy of my "Insider's Guide To Forex Trading"  for only {{page.price}}
+
+But don't worry, you're purchase is not only safe, it's guaranteed to make your day..  If it doesn't, that's ok!  Check out my "unheard" of money back guarantee deal..
+
+
+<img class="responsive-image" src="{{site.urlimg}}thumb/insider-guide-to-forex-trading.jpg" alt="{{page.title}} ebook cover">
+
+{% include buy-button.html %}
+
+<div class="content">
+    <h3 class="bold center">Our Famous, 100%, 60 Day Money-Back
+    Clear As Black-And-White Guarantee!</h3>
+    <h3 class="bold center red">If After Using What You Learn From My Book, You Don't Discover Several Risk Management Factors You Need To Know, I'll h3ersonally Buy My Book Back From You & You Get A 100%, No-Hassle Refund!</h3>
+    <p class="bold x2 center">('And you can even keep the book for free
+    as a thank you for trying it out!')</p>
+</div>
+
+It sure would be great if everything came with a guarantee like this one, right?  
+
+So what are you waiting for?  
+
+Go ahead and click the "Order Now!" button below to start reading your new forex trading book!
+
+
+{% include buy-button.html %}
+
+
+You can start reading this book in less than 3 minutes Click here to get your {{page.discount}} discounted copy of Insider's Guide To Forex Trading !  There's no absolutely NO risk, so grab it today..
+
+Here's to you, and your extremely successful forex trading venture!
+
+<p class="bold no-margin">Warmest Regards,</p>
+
+{{page.autor}}
+
+
+
+**P.S.**    Remember, you have ZERO risk. I'm so convinced that you'll be amazed at all of the information I've squeezed into Insider's Guide To Forex Trading that I'm giving you 2 months RISK FREE! Don't wait - Order today and save!
+ 
+**P.P.S.**  After this marketing test, I will be raising the price back up to the original {{page.retail}} price.  Advertising online can get very expensive, and I'm not even sure if I can keep this offer up much longer!  If you're serious about forex trading, Order Today!

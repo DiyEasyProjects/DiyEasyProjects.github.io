@@ -1,0 +1,11 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Products
+  url: "/products/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

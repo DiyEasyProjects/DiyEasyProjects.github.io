@@ -1,0 +1,42 @@
+---
+layout: default
+format: page-fullwidth
+---
+
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}">
+		{% if page.image.caption_url && page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+<div class="row t30">
+	<div class="small-12 medium-10 medium-offset-1 columns">
+		<div class="content-box">
+			<article>
+				<header>
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1 class="small-title">{{ page.title }}</h1>
+				</header>
+
+				{{ content }}
+
+			</article>
+		</div>
+
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+
+{% if page.date %}
+<script>
+	var d = new Date();
+	document.getElementById("date").innerHTML = d.toDateString();
+</script>
+{% endif %}

@@ -1,0 +1,291 @@
+/* My classes
+------------------------------------------------------------------- */
+
+$content-bg: #fffffe;
+
+.white-bg {
+	background-color: $content-bg;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+.cover-max-height {
+	height: 200px;
+	max-height: 200px;
+}
+
+.small-title {
+	font-size: .8em;
+	color: #ccc;
+	font-style: italic;
+}
+
+.yellow-bg {
+	background-color: #ffd600;
+}
+
+.boxShadow12Light {
+    -webkit-box-shadow: 0 0 12px #bdbdbd;
+    -moz-box-shadow: 0 0 12px #bdbdbd;    
+    box-shadow: 0 0 12px #bdbdbd;
+}
+
+.boxShadow12 {
+    -webkit-box-shadow: 0 0 12px #757575;
+    -moz-box-shadow: 0 0 12px #757575;    
+    box-shadow: 0 0 12px #757575;
+}
+
+.boxShadow15Light {
+    -webkit-box-shadow: 0 0 12px #bdbdbd;
+    -moz-box-shadow: 0 0 12px #bdbdbd;    
+    box-shadow: 0 0 12px #bdbdbd;
+}
+
+.boxShadow15 {
+    -webkit-box-shadow: 0 0 12px #757575;
+    -moz-box-shadow: 0 0 12px #757575;    
+    box-shadow: 0 0 12px #757575;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto !important;
+  display: block;
+}
+
+.side-presentation, .presentation {
+	background-color: $content-bg;
+	border: none;
+	@include radius;
+	-webkit-box-shadow: 0px 0px 8px #ccc;
+	-moz-box-shadow: 0px 0px 8px #ccc;
+	box-shadow: 0px 0px 8px #ccc;
+}
+
+.presentation {
+	margin: 25px 0px;
+	padding: 0 22px;
+}
+
+.content {
+	margin: 10px 0px;
+	padding: 25px 10px 10px;
+	background-color: #e0e0e0;
+	border: none;
+	@include radius;
+	-webkit-box-shadow: 0px 0px 6px #979797;
+	-moz-box-shadow: 0px 0px 6px #979797;
+	box-shadow: 0px 0px 6px #979797;	
+}
+
+@media only screen and (min-width: 580px) {
+	.content {
+		margin: 20px 10px;
+		padding: 25px 15px 10px;
+	}
+}
+
+.disclaimer {
+	margin: 20px;
+	padding: 30px 20px;
+	border: 1px solid #ccc;
+	@include radius;
+	font-size: 0.7em;
+	position: relative;
+	box-shadow: 0 0 8px #333 inset;
+}
+
+strong, .bold { font-weight: bold }
+.x2 {font-size: 1.1em;}
+.x3 {font-size: 1.3em;}
+
+ul li.checkmark {
+	background-image: url(../../images/checkmark.png);
+}
+ul li.arrow {
+	background-image: url(../../images/arrow.png);
+}
+ul li.pluss {
+	background-image: url(../../images/pluss.png);
+}
+ul li.xmark {
+	background-image: url(../../images/xmark.png);
+}
+ul li.checkmark, ul li.arrow, ul li.pluss, ul li.xmark {
+	line-height: 2em;
+	list-style-type: none;
+	background-position: left top;
+	background-size: 1.7em;
+	background-repeat: no-repeat;
+	padding-left: 36px;
+	margin-left: 0;
+}
+
+.margin-bottom {
+	margin-bottom: 16px !important;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.line-trough {
+	text-decoration: line-through;
+}
+
+.left { text-align: left }
+
+.center-no-padding {
+	text-align: center;
+}
+
+.center { 
+	text-align: center;
+	padding-left: 25px !important;
+	padding-right: 25px !important;
+	margin-bottom: 18px !important;
+}
+.right { text-align: right }
+.justify { text-align: justify }
+
+.center-div { margin: 0 auto }
+
+.float-none { float: none }
+
+@media only screen and (min-width: 780px) {
+	.float-left { float: left }
+	.float-right { float: right }
+	.half {width: 50%;}
+}
+
+.padding-top {
+	padding-top: 18px;
+}
+.padding-bottom {
+	padding-bottom: 18px;
+}
+.padding-left {
+	padding-left: 18px; 
+}
+.padding-right {
+	padding-right: 18px;
+}
+
+.relative { position: relative }
+.absolute { position: absolute }
+
+.content-box {
+	margin: -150px auto 0;
+	background-color: $content-bg;
+	border: none;
+	padding: 30px;
+	@include radius;
+	-webkit-box-shadow: 0px 2px 10px #676767;
+	-moz-box-shadow: 0px 2px 10px #676767;
+	box-shadow: 0px 2px 10px #676767;
+}
+
+@media only screen and (min-width:480px) and (max-width: 680px) {
+  .content-box {
+    margin-top: -100px; 
+  }
+}
+
+@media only screen and (max-width: 580px) {
+	br {
+		display: none !important;
+	}
+  .content-box {
+    padding: 15px; 
+    margin-top: -100px; 
+  }
+}
+
+.clearfix {
+  float: none;
+  clear: both !important;
+}
+
+.full-width {
+	width: 100% !important;
+}
+
+.order-button {
+	display: block;
+	text-align: center;
+	max-width: 300px;
+	margin: 0 auto 2.5em;
+	font-size: 1.2em;
+	font-weight: 900;
+	padding: 15px;
+	background: #ffd600;
+	box-shadow: 0 0px 2px #607d8b;
+	@include radius;
+	-webkit-transition: all 0.2s ease-out;
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out;
+	ms-transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+	border: none;
+	&:focus, &:hover {
+		box-shadow: 0 1px 20px #607d8b;
+		zoom: 1;
+		filter: alpha(opacity=70);
+		opacity: 0.7;
+		border-bottom: none !important;
+	}
+}
+
+#subfooter a {
+	text-transform: lowercase !important;
+}
+
+#logo {
+	font-size: 0.8em;
+	* {
+		color: #f1f1f1;
+		text-shadow: 0 0 4px #333;
+	}
+	.logoH1 {
+		margin-top: 60px;
+	}
+	.logoH2 {
+		font-size: 0.8em;
+		margin: 0;
+		margin-top: -16px;
+		margin-left: 190px;
+	}	
+	@media (min-width: 400px) {
+		font-size: 1em;	
+		.logoH2 {
+			margin-top: -20px;
+			margin-left: 230px;
+		}
+	}
+	@media (min-width: 500px) {
+		font-size: 1.4em;	
+		.logoH2 {
+			margin-top: -25px;
+			margin-left: 320px;
+		}	
+	}
+}
+
+.top-bar {
+	opacity: 0.8;
+}
+
+.backstretch {
+	img {
+		filter: brightness(0.5);
+		-khtml-filter: brightness(0.5);
+		-moz-filter: brightness(0.5);
+		-o-filter: brightness(0.5);
+		-ms-filter: brightness(0.5);
+		-webkit-filter: brightness(0.5);
+	}
+}

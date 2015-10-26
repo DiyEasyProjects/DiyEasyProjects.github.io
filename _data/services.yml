@@ -1,0 +1,26 @@
+- menu_name: "Services"
+
+- name: "TERMS OF WEBSITE USE"
+  url: "/terms-of-website-use/"
+  class: "services-terms-of-website-use"
+  title: "TERMS OF WEBSITE USE"
+
+- name: "PRIVACY POLICY"
+  url: "/privacy-policy/"
+  class: "services-privacy-policy"
+  title: "PRIVACY POLICY"
+
+- name: "DISCLAIMER"
+  url: "/disclaimer/"
+  class: "services-disclaimer"
+  title: "DISCLAIMER"
+
+- name: "REFUNDS POLICY"
+  url: "/refunds-policy/"
+  class: "services-refunds-policy"
+  title: "REFUNDS POLICY"
+
+- name: "SPAM"
+  url: "/spam/"
+  class: "services-spam"
+  title: "We Do NOT Tolerate SPAM!"

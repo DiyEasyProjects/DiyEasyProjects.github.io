@@ -1,0 +1,6 @@
+{% for giveaway in site.data.giveaways %}
+	<h3 class="center-no-padding">{{giveaway.title}}</h3>
+	<img class="responsive-image cover-max-height" src="{{site.urlimg}}/thumb/{{giveaway.image}}" alt="{{giveaway.name}}-cover">
+	<p>{{giveaway.description}}</p>
+	{% include gumroad-follow-form.html %}
+{% endfor %}
